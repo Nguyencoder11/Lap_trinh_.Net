@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\CSharpCanBan.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\CSharpCanBan.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\CSharpCanBan.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\CSharpCanBan.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\CSharpCanBan.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\CSharpCanBan.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\CSharpCanBan.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\refint\CSharpCanBan.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\CSharpCanBan.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\CSharpCanBan.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\ref\CSharpCanBan.dll

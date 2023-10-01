@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\bai2.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\bai2.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\bai2.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\bai2.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\bai2.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\bin\Debug\net5.0\bai2.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\bai2.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\bai2.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\bai2.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\bai2.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\refint\bai2.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\bai2.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\bai2.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\bai2\obj\Debug\net5.0\ref\bai2.dll

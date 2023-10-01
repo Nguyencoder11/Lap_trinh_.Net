@@ -1,0 +1,5 @@
+1,John Doe,Male,20,85,90,80,85.0,Good
+2,Jane Smith,Female,19,90,95,92,92.3,Excellent
+3,Michael Johnson,Male,21,78,82,85,81.7,Good
+4,Emily Davis,Female,20,92,88,90,90.0,Excellent
+5,David Brown,Male,19,75,80,77,77.3,Fair

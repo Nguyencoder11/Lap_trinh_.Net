@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\bin\Debug\net5.0\TongChuoi.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\bin\Debug\net5.0\TongChuoi.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\bin\Debug\net5.0\TongChuoi.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\bin\Debug\net5.0\TongChuoi.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\bin\Debug\net5.0\TongChuoi.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\bin\Debug\net5.0\TongChuoi.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\TongChuoi.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\TongChuoi.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\TongChuoi.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\TongChuoi.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\refint\TongChuoi.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\TongChuoi.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\TongChuoi.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\TongChuoi\obj\Debug\net5.0\ref\TongChuoi.dll

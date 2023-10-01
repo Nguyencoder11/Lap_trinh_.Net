@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\bin\Debug\net5.0\TinhToan.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\refint\TinhToan.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\TinhToan.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TinhToan\obj\Debug\net5.0\ref\TinhToan.dll

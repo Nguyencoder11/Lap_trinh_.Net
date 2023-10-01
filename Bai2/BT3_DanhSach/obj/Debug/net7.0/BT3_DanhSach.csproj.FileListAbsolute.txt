@@ -1,0 +1,14 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\bin\Debug\net7.0\BT3_DanhSach.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\bin\Debug\net7.0\BT3_DanhSach.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\bin\Debug\net7.0\BT3_DanhSach.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\bin\Debug\net7.0\BT3_DanhSach.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\bin\Debug\net7.0\BT3_DanhSach.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\BT3_DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\BT3_DanhSach.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\BT3_DanhSach.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\BT3_DanhSach.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\BT3_DanhSach.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\refint\BT3_DanhSach.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\BT3_DanhSach.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\BT3_DanhSach.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT3_DanhSach\obj\Debug\net7.0\ref\BT3_DanhSach.dll

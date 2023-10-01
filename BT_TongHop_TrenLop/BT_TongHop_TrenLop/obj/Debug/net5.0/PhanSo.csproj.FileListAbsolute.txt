@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\bin\Debug\net5.0\PhanSo.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\bin\Debug\net5.0\PhanSo.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\bin\Debug\net5.0\PhanSo.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\bin\Debug\net5.0\PhanSo.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\bin\Debug\net5.0\PhanSo.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\bin\Debug\net5.0\PhanSo.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\PhanSo.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\PhanSo.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\PhanSo.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\PhanSo.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\refint\PhanSo.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\PhanSo.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\PhanSo.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT_TongHop_TrenLop\BT_TongHop_TrenLop\obj\Debug\net5.0\ref\PhanSo.dll

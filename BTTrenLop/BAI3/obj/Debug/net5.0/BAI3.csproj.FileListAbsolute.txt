@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\BAI3.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\BAI3.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\BAI3.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\BAI3.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\bin\Debug\net5.0\BAI3.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\bin\Debug\net5.0\BAI3.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\bin\Debug\net5.0\BAI3.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\bin\Debug\net5.0\BAI3.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\bin\Debug\net5.0\BAI3.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\bin\Debug\net5.0\BAI3.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\BAI3.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\refint\BAI3.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\BAI3.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\BAI3.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTTrenLop\BAI3\obj\Debug\net5.0\ref\BAI3.dll

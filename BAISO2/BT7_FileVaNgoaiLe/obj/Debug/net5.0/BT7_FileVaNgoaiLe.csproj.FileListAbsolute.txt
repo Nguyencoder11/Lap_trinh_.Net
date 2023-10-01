@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\bin\Debug\net5.0\BT7_FileVaNgoaiLe.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\bin\Debug\net5.0\BT7_FileVaNgoaiLe.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\bin\Debug\net5.0\BT7_FileVaNgoaiLe.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\bin\Debug\net5.0\BT7_FileVaNgoaiLe.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\bin\Debug\net5.0\BT7_FileVaNgoaiLe.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\bin\Debug\net5.0\BT7_FileVaNgoaiLe.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\BT7_FileVaNgoaiLe.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\BT7_FileVaNgoaiLe.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\BT7_FileVaNgoaiLe.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\BT7_FileVaNgoaiLe.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\BT7_FileVaNgoaiLe.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\refint\BT7_FileVaNgoaiLe.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\BT7_FileVaNgoaiLe.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\BT7_FileVaNgoaiLe.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAISO2\BT7_FileVaNgoaiLe\obj\Debug\net5.0\ref\BT7_FileVaNgoaiLe.dll

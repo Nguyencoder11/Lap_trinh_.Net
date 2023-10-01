@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\bin\Debug\net5.0\TamGiac.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\refint\TamGiac.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\TamGiac.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TamGiac\obj\Debug\net5.0\ref\TamGiac.dll

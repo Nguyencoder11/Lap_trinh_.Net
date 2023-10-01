@@ -1,0 +1,14 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\bin\Debug\net7.0\BT2_Chuoi.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\bin\Debug\net7.0\BT2_Chuoi.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\bin\Debug\net7.0\BT2_Chuoi.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\bin\Debug\net7.0\BT2_Chuoi.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\bin\Debug\net7.0\BT2_Chuoi.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\BT2_Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\BT2_Chuoi.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\BT2_Chuoi.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\BT2_Chuoi.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\BT2_Chuoi.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\refint\BT2_Chuoi.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\BT2_Chuoi.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\BT2_Chuoi.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT2_Chuoi\obj\Debug\net7.0\ref\BT2_Chuoi.dll

@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\refint\HelloWorld.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll

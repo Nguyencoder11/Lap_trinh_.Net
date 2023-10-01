@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BT5_TepTin/1.0.0": {
+        "runtime": {
+          "BT5_TepTin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT5_TepTin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

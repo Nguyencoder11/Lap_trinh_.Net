@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BT6_DanhSach/1.0.0": {
+        "runtime": {
+          "BT6_DanhSach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT6_DanhSach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

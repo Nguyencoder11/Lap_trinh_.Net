@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BT6_PhuongThuc/1.0.0": {
+        "runtime": {
+          "BT6_PhuongThuc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT6_PhuongThuc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

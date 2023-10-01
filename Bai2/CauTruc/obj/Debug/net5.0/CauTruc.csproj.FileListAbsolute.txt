@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\refint\CauTruc.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\CauTruc\obj\Debug\net5.0\ref\CauTruc.dll

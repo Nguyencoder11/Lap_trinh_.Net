@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\bin\Debug\net5.0\BT5_TepTin.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\bin\Debug\net5.0\BT5_TepTin.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\bin\Debug\net5.0\BT5_TepTin.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\bin\Debug\net5.0\BT5_TepTin.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\bin\Debug\net5.0\BT5_TepTin.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\bin\Debug\net5.0\BT5_TepTin.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\BT5_TepTin.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\BT5_TepTin.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\BT5_TepTin.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\BT5_TepTin.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\BT5_TepTin.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\refint\BT5_TepTin.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\BT5_TepTin.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\BT5_TepTin.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai2\BT5_TepTin\obj\Debug\net5.0\ref\BT5_TepTin.dll

@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\bin\Debug\net5.0\TachDay.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\bin\Debug\net5.0\TachDay.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\bin\Debug\net5.0\TachDay.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\bin\Debug\net5.0\TachDay.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\bin\Debug\net5.0\TachDay.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\bin\Debug\net5.0\TachDay.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\TachDay.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\TachDay.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\TachDay.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\TachDay.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\TachDay.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\refint\TachDay.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\TachDay.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\TachDay.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai3\TachDay\obj\Debug\net5.0\ref\TachDay.dll

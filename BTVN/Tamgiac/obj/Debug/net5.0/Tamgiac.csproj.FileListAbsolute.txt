@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\bin\Debug\net5.0\Tamgiac.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\bin\Debug\net5.0\Tamgiac.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\bin\Debug\net5.0\Tamgiac.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\bin\Debug\net5.0\Tamgiac.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\bin\Debug\net5.0\Tamgiac.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\bin\Debug\net5.0\Tamgiac.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\Tamgiac.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\Tamgiac.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\Tamgiac.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\Tamgiac.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\Tamgiac.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\refint\Tamgiac.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\Tamgiac.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\Tamgiac.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\Tamgiac\obj\Debug\net5.0\ref\Tamgiac.dll

@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\refint\XepLoaiHS.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BTVN\XepLoaiHS\obj\Debug\net5.0\ref\XepLoaiHS.dll
