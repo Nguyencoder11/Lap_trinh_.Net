@@ -1,0 +1,14 @@
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\DemoBai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\DemoBai4.AssemblyInfoInputs.cache
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\DemoBai4.AssemblyInfo.cs
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\DemoBai4.csproj.CoreCompileInputs.cache
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\bin\Debug\net6.0\DemoBai4.exe
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\bin\Debug\net6.0\DemoBai4.deps.json
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\bin\Debug\net6.0\DemoBai4.runtimeconfig.json
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\bin\Debug\net6.0\DemoBai4.dll
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\bin\Debug\net6.0\DemoBai4.pdb
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\DemoBai4.dll
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\refint\DemoBai4.dll
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\DemoBai4.pdb
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\DemoBai4.genruntimeconfig.cache
+D:\Demo\LT Net-C7\DemoBai4\DemoBai4\obj\Debug\net6.0\ref\DemoBai4.dll

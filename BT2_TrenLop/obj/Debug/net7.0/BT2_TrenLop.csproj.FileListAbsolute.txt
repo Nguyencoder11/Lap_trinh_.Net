@@ -1,0 +1,14 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\BT2_TrenLop.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\BT2_TrenLop.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\BT2_TrenLop.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\BT2_TrenLop.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\bin\Debug\net7.0\BT2_TrenLop.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\bin\Debug\net7.0\BT2_TrenLop.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\bin\Debug\net7.0\BT2_TrenLop.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\bin\Debug\net7.0\BT2_TrenLop.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\bin\Debug\net7.0\BT2_TrenLop.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\BT2_TrenLop.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\refint\BT2_TrenLop.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\BT2_TrenLop.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\BT2_TrenLop.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BT2_TrenLop\obj\Debug\net7.0\ref\BT2_TrenLop.dll
