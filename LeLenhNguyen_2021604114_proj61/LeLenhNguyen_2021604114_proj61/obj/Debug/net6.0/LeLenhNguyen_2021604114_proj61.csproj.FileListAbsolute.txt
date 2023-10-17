@@ -1,0 +1,14 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\bin\Debug\net6.0\LeLenhNguyen_2021604114_proj61.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\bin\Debug\net6.0\LeLenhNguyen_2021604114_proj61.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\bin\Debug\net6.0\LeLenhNguyen_2021604114_proj61.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\bin\Debug\net6.0\LeLenhNguyen_2021604114_proj61.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\bin\Debug\net6.0\LeLenhNguyen_2021604114_proj61.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\LeLenhNguyen_2021604114_proj61.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\LeLenhNguyen_2021604114_proj61.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\LeLenhNguyen_2021604114_proj61.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\LeLenhNguyen_2021604114_proj61.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\LeLenhNguyen_2021604114_proj61.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\refint\LeLenhNguyen_2021604114_proj61.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\LeLenhNguyen_2021604114_proj61.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\LeLenhNguyen_2021604114_proj61.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\LeLenhNguyen_2021604114_proj61\LeLenhNguyen_2021604114_proj61\obj\Debug\net6.0\ref\LeLenhNguyen_2021604114_proj61.dll
