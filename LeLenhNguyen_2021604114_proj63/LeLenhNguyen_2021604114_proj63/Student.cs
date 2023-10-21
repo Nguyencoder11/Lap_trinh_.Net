@@ -29,12 +29,19 @@ namespace LeLenhNguyen_2021604114_proj63
         }
         public void InputStudent()
         {
-            Console.Write("Nhap ma sinh vien: ");
-            StudentId = int.Parse(Console.ReadLine());
-            Console.Write("Nhap ten: ");
-            Name = Console.ReadLine();
-            Console.Write("Nhap diem: ");
-            Mark = Console.ReadLine();
+            try
+            {
+                Console.Write("Nhap ma sinh vien: ");
+                StudentId = int.Parse(Console.ReadLine());
+                Console.Write("Nhap ten: ");
+                Name = Console.ReadLine();
+                Console.Write("Nhap diem: ");
+                Mark = Console.ReadLine();
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Du lieu nhap vao khong dung dinh dang");
+            }
         }
         public override string ToString()
         {

@@ -19,26 +19,26 @@ namespace LeLenhNguyen_2021604114_proj63
                 Console.WriteLine("6. Ket thuc chuong trinh");
 
                 Console.Write("Nhap vao lua chon: ");
-                int choice = int.Parse(Console.ReadLine());
+                string choice = Console.ReadLine();
                 switch (choice)
                 {
-                    case 1:
+                    case "1":
                         ThemMotKhoaHoc();
                         break;
-                    case 2:
-                        Console.WriteLine("Danh sach cac khoa hoc");
+                    case "2":
+                        Console.WriteLine("======= Danh sach cac khoa hoc =======");
                         HienThiKhoaHoc();
                         break;
-                    case 3:
+                    case "3":
                         TimKiemKhoaHoc();
                         break;
-                    case 4:
+                    case "4":
                         TimKiemSinhVien();
                         break;
-                    case 5:
+                    case "5":
                         XoaMotKhoaHoc();
                         break;
-                    case 6:
+                    case "6":
                         Console.WriteLine("Da thoat chuong trinh");
                         return;
                     default:
@@ -53,12 +53,19 @@ namespace LeLenhNguyen_2021604114_proj63
             Console.Write("Nhap vao ma khoa hoc: ");
             string deleteId = Console.ReadLine();
 
+            List<Course> coursesToDelete = new List<Course>();
+
             foreach(var course in coursesList)
             {
                 if(course != null && course.CourseId == deleteId)
                 {
-                    coursesList.Remove(course);
+                    coursesToDelete.Add(course);
                 }
+            }
+
+            foreach(var course in coursesToDelete)
+            {
+                coursesList.Remove(course);
             }
         }
 
@@ -66,6 +73,7 @@ namespace LeLenhNguyen_2021604114_proj63
         {
             Console.Write("Nhap ma sinh vien: ");
             int studentIdSearch = Convert.ToInt32(Console.ReadLine());
+            bool foundStudent = false;
 
             foreach(var course in coursesList)
             {
@@ -77,9 +85,15 @@ namespace LeLenhNguyen_2021604114_proj63
                         {
                             course.DisplayCourseAndStudents();
                             Console.WriteLine(student.ToString());
+                            foundStudent = true;
+                            break;
                         }
                     }
                 }
+            }
+            if (!foundStudent)
+            {
+                Console.WriteLine($"Khong tim thay sinh vien co ma sinh vien {studentIdSearch}");
             }
         }
 
@@ -87,13 +101,20 @@ namespace LeLenhNguyen_2021604114_proj63
         {
             Console.Write("Nhap vao ma khoa hoc: ");
             string courseSearch = Console.ReadLine();   
+            bool foundCourse = false;
 
             foreach(var course in coursesList)
             {
                 if(course != null && course.CourseId == courseSearch)
                 {
                     course.DisplayCourseAndStudents();
+                    foundCourse = true;
+                    break;
                 }
+            }
+            if (!foundCourse)
+            {
+                Console.WriteLine($"Khong tim thay khoa hoc co ma {courseSearch}");
             }
         }
 
