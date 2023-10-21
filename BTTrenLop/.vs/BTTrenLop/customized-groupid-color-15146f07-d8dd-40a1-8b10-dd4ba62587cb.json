@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "ColorMap": {
+    "1189004209": {
+      "GroupId": 1189004209,
+      "ColorIndex": 0
+    },
+    "488732589": {
+      "GroupId": 488732589,
+      "ColorIndex": 0
+    },
+    "-2019805041": {
+      "GroupId": -2019805041,
+      "ColorIndex": 0
+    },
+    "1325134595": {
+      "GroupId": 1325134595,
+      "ColorIndex": 0
+    },
+    "-305437305": {
+      "GroupId": -305437305,
+      "ColorIndex": 0
+    },
+    "483746223": {
+      "GroupId": 483746223,
+      "ColorIndex": 0
+    },
+    "-788004298": {
+      "GroupId": -788004298,
+      "ColorIndex": 0
+    }
+  }
+}
