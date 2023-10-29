@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\bin\Debug\net5.0\DeMinhHoaOOP.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\bin\Debug\net5.0\DeMinhHoaOOP.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\bin\Debug\net5.0\DeMinhHoaOOP.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\bin\Debug\net5.0\DeMinhHoaOOP.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\bin\Debug\net5.0\DeMinhHoaOOP.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\bin\Debug\net5.0\DeMinhHoaOOP.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\DeMinhHoaOOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\DeMinhHoaOOP.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\DeMinhHoaOOP.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\DeMinhHoaOOP.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\DeMinhHoaOOP.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\refint\DeMinhHoaOOP.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\DeMinhHoaOOP.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\DeMinhHoaOOP.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DeMinhHoaOOP\DeMinhHoaOOP\obj\Debug\net5.0\ref\DeMinhHoaOOP.dll
