@@ -12,7 +12,7 @@ namespace DeMinhHoaOOP
         private string ho_ten;
         private int so_luong_mua;
         private double don_gia;
-        
+
         public string MaKhachHang
         {
             get { return ma_khach_hang; }
@@ -61,7 +61,7 @@ namespace DeMinhHoaOOP
 
         public override bool Equals(object obj)
         {
-            if(obj == null) return false;
+            if (obj == null) return false;
             KhachHang kh = (KhachHang)obj;
             return MaKhachHang.Equals(kh.MaKhachHang) && HoTen.Equals(kh.HoTen) && SoLuongMua.Equals(kh.SoLuongMua) && DonGia.Equals(kh.DonGia);
         }

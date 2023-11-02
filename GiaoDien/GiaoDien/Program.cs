@@ -58,27 +58,72 @@ namespace GiaoDien
 
         private static void SapXepTheoYear()
         {
-            
+            vehicleLists.Sort((v1, v2) => v1.Year.CompareTo(v2.Year));
+            Console.WriteLine("Danh sách các phương tiện được sắp xếp theo năm");
+            foreach(Vehicles v in vehicleLists)
+            {
+                Console.WriteLine(v.ToString());
+            }
         }
 
         private static void SapXepTheoModel()
         {
-            
+            vehicleLists.Sort((v1, v2) => v1.Model.CompareTo(v2.Model));
+            Console.WriteLine("Danh sách các phương tiện được sắp xếp theo model");
+            foreach (Vehicles v in vehicleLists)
+            {
+                Console.WriteLine(v.ToString());
+            }
         }
 
         private static void TimKiemTheoMaker()
         {
-            
+            Console.Write("Nhập NSX: ");
+            string maker = Console.ReadLine();
+            int foundMaker = 0;
+
+            foreach(var  vehicle in vehicleLists)
+            {
+                if(vehicle!=null && vehicle.Maker == maker)
+                {
+                    Console.WriteLine(vehicle.ToString());
+                    foundMaker++;
+                }
+            }
+            if (foundMaker == 0)
+            {
+                Console.WriteLine("Không tìm thấy phương tiện sản xuất bởi " + maker);
+            }
         }
 
         private static void TimKiemTheoId()
         {
-            
+            Console.Write("Nhập id: ");
+            string id = Console.ReadLine();
+            bool foundId = false;
+            foreach(var vehicle in vehicleLists)
+            {
+                if(vehicle != null && vehicle.Id == id)
+                {
+                    Console.WriteLine(vehicle.ToString());
+                    foundId = true;
+                    break;
+                }
+            }
+            if (!foundId)
+            {
+                Console.WriteLine("Không tìm thấy phương tiên có id " + id);
+            }
+
         }
 
         private static void HienThiDuLieu()
         {
-            
+            Console.WriteLine("Danh sách các phương tiện:");
+            foreach(Vehicles vehicle in vehicleLists)
+            {
+                Console.WriteLine(vehicle.ToString());
+            }
         }
 
         private static void NhapDuLieu()
@@ -120,8 +165,6 @@ namespace GiaoDien
             {
                 Console.WriteLine("Dữ liệu nhập không đúng định dạng");
             }
-
-            // int currentYear = DateTime.Now.Year;
         }
     }
 }

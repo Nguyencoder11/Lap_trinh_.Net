@@ -16,7 +16,10 @@ namespace DeMinhHoaOOP
                 Console.WriteLine("1. Nhập thông tin");
                 Console.WriteLine("2. Hiển thị danh sách");
                 Console.WriteLine("3. Tìm khách hàng");
-                Console.WriteLine("4. Thoát");
+                Console.WriteLine("4. Sắp xếp danh sách khách hàng");
+                Console.WriteLine("5. Chèn khách hàng");
+                Console.WriteLine("6. Xóa khách hàng");
+                Console.WriteLine("7. Thoát");
                 Console.Write("Vui lòng lựa chọn: ");
                 string option = Console.ReadLine();
 
@@ -32,6 +35,15 @@ namespace DeMinhHoaOOP
                         TimKhachHang();
                         break;
                     case "4":
+                        SapXepDanhSach();
+                        break;
+                    case "5":
+                        ChenKhachHang();
+                        break;
+                    case "6":
+                        XoaKhachHang();
+                        break;
+                    case "7":
                         Console.WriteLine("Đã thoát chương trình");
                         return;
                     default:
@@ -39,6 +51,79 @@ namespace DeMinhHoaOOP
                         break;
                 }
             }
+        }
+
+        private static void SapXepDanhSach()
+        {
+            DanhSachKhachHang.Sort((kh1, kh2) => kh1.TinhTongTien().CompareTo(kh2.TinhTongTien()));
+
+            Console.WriteLine("Danh sách đã được sắp xếp theo tổng tiền tăng dần:");
+            HienThiDanhSach();
+        }
+
+        private static void ChenKhachHang()
+        {
+            Console.Write("Nhập vị trí cần chèn (0 - " + DanhSachKhachHang.Count + "): ");
+            int viTri = int.Parse(Console.ReadLine());
+
+            if (viTri < 0 || viTri > DanhSachKhachHang.Count)
+            {
+                Console.WriteLine("Vị trí không hợp lệ.");
+                return;
+            }
+
+            Console.WriteLine("Chọn loại khách hàng:");
+            Console.WriteLine("1. Khách hàng thường");
+            Console.WriteLine("2. Khách hàng VIP");
+            Console.Write("Vui lòng chọn loại khách hàng: ");
+            string loaiKhachHang = Console.ReadLine();
+
+            Console.Write("Nhập mã khách hàng: ");
+            string maKhachHang = Console.ReadLine();
+
+            if (KiemTraTrungMaKhachHang(maKhachHang))
+            {
+                Console.WriteLine("Mã khách hàng đã tồn tại.");
+                return;
+            }
+
+            Console.Write("Nhập họ tên: ");
+            string hoTen = Console.ReadLine();
+            Console.Write("Nhập số lượng mua: ");
+            int soLuongMua = int.Parse(Console.ReadLine());
+            Console.Write("Nhập đơn giá: ");
+            double donGia = double.Parse(Console.ReadLine());
+
+            if (loaiKhachHang == "1")
+            {
+                KhachHang khachHang = new KhachHang(maKhachHang, hoTen, soLuongMua, donGia);
+                DanhSachKhachHang.Insert(viTri, khachHang);
+            }
+            else if (loaiKhachHang == "2")
+            {
+                KhachHangVIP khachHangVip = new KhachHangVIP(maKhachHang, hoTen, soLuongMua, donGia);
+                DanhSachKhachHang.Insert(viTri, khachHangVip);
+            }
+
+            Console.WriteLine("Đã chèn khách hàng thành công.");
+        }
+
+        private static void XoaKhachHang()
+        {
+            Console.Write("Nhập mã khách hàng cần xóa: ");
+            string maKhachHang = Console.ReadLine();
+
+            for (int i = 0; i < DanhSachKhachHang.Count; i++)
+            {
+                if (DanhSachKhachHang[i].MaKhachHang == maKhachHang)
+                {
+                    DanhSachKhachHang.RemoveAt(i);
+                    Console.WriteLine("Đã xóa khách hàng có mã " + maKhachHang);
+                    return;
+                }
+            }
+
+            Console.WriteLine("Không tìm thấy khách hàng có mã " + maKhachHang);
         }
 
         private static void TimKhachHang()
