@@ -1,0 +1,7 @@
+D:\Tài liệu HaUI\Lập Trình .Net\Code\KtraTx1.5\KtraTx1.5\obj\Debug\KtraTx1.5.csproj.AssemblyReference.cache
+D:\Tài liệu HaUI\Lập Trình .Net\Code\KtraTx1.5\KtraTx1.5\obj\Debug\KtraTx1.5.csproj.CoreCompileInputs.cache
+D:\Tài liệu HaUI\Lập Trình .Net\Code\KtraTx1.5\KtraTx1.5\bin\Debug\KtraTx1.5.exe.config
+D:\Tài liệu HaUI\Lập Trình .Net\Code\KtraTx1.5\KtraTx1.5\bin\Debug\KtraTx1.5.exe
+D:\Tài liệu HaUI\Lập Trình .Net\Code\KtraTx1.5\KtraTx1.5\bin\Debug\KtraTx1.5.pdb
+D:\Tài liệu HaUI\Lập Trình .Net\Code\KtraTx1.5\KtraTx1.5\obj\Debug\KtraTx1.5.exe
+D:\Tài liệu HaUI\Lập Trình .Net\Code\KtraTx1.5\KtraTx1.5\obj\Debug\KtraTx1.5.pdb

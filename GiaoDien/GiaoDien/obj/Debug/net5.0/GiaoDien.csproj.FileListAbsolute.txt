@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\bin\Debug\net5.0\GiaoDien.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\bin\Debug\net5.0\GiaoDien.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\bin\Debug\net5.0\GiaoDien.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\bin\Debug\net5.0\GiaoDien.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\bin\Debug\net5.0\GiaoDien.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\bin\Debug\net5.0\GiaoDien.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\GiaoDien.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\GiaoDien.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\GiaoDien.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\GiaoDien.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\GiaoDien.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\refint\GiaoDien.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\GiaoDien.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\GiaoDien.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\GiaoDien\GiaoDien\obj\Debug\net5.0\ref\GiaoDien.dll
