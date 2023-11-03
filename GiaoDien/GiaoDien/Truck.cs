@@ -26,7 +26,7 @@ namespace GiaoDien
 
         public override string ToString()
         {
-            return base.ToString() + string.Format("{0,12}", Load);
+            return string.Format("{0,10}{1,15}{2,15}{3,12}{4,15}{5,12}{6,12}{7,15}", Id, Maker, Model, Year, Type, "-", Load, NienHanSuDung());
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Reflection.Metadata;
 
 namespace GiaoDien
@@ -120,6 +121,7 @@ namespace GiaoDien
         private static void HienThiDuLieu()
         {
             Console.WriteLine("Danh sách các phương tiện:");
+            Console.WriteLine("{0,10}{1,15}{2,15}{3,12}{4,15}{5,12}{6,12}{7,15}", "Biển số", "Hãng sản xuất", "Model", "Năm SX", "Loại xe", "Số chỗ", "Tải trọng", "Niên hạn SD");
             foreach(Vehicles vehicle in vehicleLists)
             {
                 Console.WriteLine(vehicle.ToString());
@@ -132,6 +134,11 @@ namespace GiaoDien
                 Console.WriteLine("Nhập thông tin xe:");
                 Console.Write("Biển số: ");
                 string id = Console.ReadLine();
+                if (vehicleLists.Exists(v => v.Id == id))
+                {
+                    Console.WriteLine("Biển số đã tồn tại. Vui lòng nhập biển số khác");
+                    return;
+                }
                 Console.Write("Hãng sản xuất: ");
                 string maker = Console.ReadLine();
                 Console.Write("Model: ");
@@ -141,14 +148,14 @@ namespace GiaoDien
                 Console.Write("Loại xe: ");
                 string type = Console.ReadLine();
 
-                if (type == "Xe chở người")
+                if (type.ToLower() == "Xe chở người".ToLower())
                 {
                     Console.Write("Sỗ chỗ ngồi: ");
                     int seat = int.Parse(Console.ReadLine());
                     vehicleLists.Add(new Car(id, maker, model, year, type, seat));
                     Console.WriteLine("Xe chở người đã được thêm vào danh sách");
                 }
-                else if (type == "Xe tải")
+                else if (type.ToLower() == "Xe tải".ToLower())
                 {
                     Console.Write("Tải trọng: ");
                     double loaded = double.Parse(Console.ReadLine());
