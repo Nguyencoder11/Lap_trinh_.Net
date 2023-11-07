@@ -9,7 +9,7 @@ namespace Bai5
         {
             int sotienban;
             Func<int, double> hoahong = TinhTienHoaHong;
-
+            Func<int, double> hoaHong;
             Console.Write("Nhap ten nhan vien: ");
             string tenNV = Console.ReadLine();
             try
@@ -17,10 +17,18 @@ namespace Bai5
                 Console.Write("Nhap so tien ban hang: ");
                 sotienban = int.Parse(Console.ReadLine());
 
+                // Su dung Func<>
+                Console.WriteLine("Su dung Func<>");
                 Console.WriteLine($"Nhan vien: {tenNV}");
                 Console.WriteLine($"Tien ban hang: {sotienban}");
                 Console.WriteLine($"Tien hoa hong: {hoahong(sotienban)}");
 
+                // Su dung bieu thuc lamda vs Func<>
+                Console.WriteLine("Su dung bieu thuc lamda:");
+                hoaHong = (tienban) => hoahong(tienban);
+                Console.WriteLine($"Nhan vien: {tenNV}");
+                Console.WriteLine($"Tien ban hang: {sotienban}");
+                Console.WriteLine($"Tien hoa hong: {hoahong(sotienban)}");
             }
             catch (FormatException)
             {

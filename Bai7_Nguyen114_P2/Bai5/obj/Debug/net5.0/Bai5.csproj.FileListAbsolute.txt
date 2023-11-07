@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\bin\Debug\net5.0\Bai5.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\bin\Debug\net5.0\Bai5.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\bin\Debug\net5.0\Bai5.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\bin\Debug\net5.0\Bai5.runtimeconfig.dev.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\bin\Debug\net5.0\Bai5.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\bin\Debug\net5.0\Bai5.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\Bai5.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\Bai5.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\Bai5.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\Bai5.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\refint\Bai5.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\Bai5.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\Bai5.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai7_Nguyen114_P2\Bai5\obj\Debug\net5.0\ref\Bai5.dll
