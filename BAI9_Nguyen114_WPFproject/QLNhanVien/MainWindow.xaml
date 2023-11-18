@@ -5,8 +5,37 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:QLNhanVien"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Quản lý nhân viên" Height="600" Width="600" WindowStartupLocation="CenterScreen">
     <Grid>
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80*"></ColumnDefinition>
+            <ColumnDefinition Width="73*"></ColumnDefinition>
+            <ColumnDefinition Width="147*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"></RowDefinition>
+            <RowDefinition Height="53*"></RowDefinition>
+            <RowDefinition Height="54*"></RowDefinition>
+            <RowDefinition Height="46*"></RowDefinition>
+            <RowDefinition Height="381*"/>
+        </Grid.RowDefinitions>
+        <!-- Dong 1 -->
+        <Label Content="Họ tên" Grid.Column="0" VerticalAlignment="Center" FontSize="16" Height="32"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="10,8,10,8" FontSize="16"></TextBox>
+        <!-- Dong 2 -->
+        <Label Content="Giới tính" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" FontSize="16" Height="32"></Label>
+        <ComboBox Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Margin="10,8,10,8" FontSize="16"></ComboBox>
+        <!-- Dong 3 -->
+        <Label Content="Phòng ban" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" FontSize="16" Height="31"></Label>
+        <ComboBox Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Margin="10,8,10,8" FontSize="16"></ComboBox>
+        <!-- Dong 4 -->
+        <DockPanel Grid.Row="2" Grid.Column="2" Margin="5,54,5,0" Grid.RowSpan="2">
+            <Button FontSize="16" Content="Thêm" Width="139" Height="40"></Button>
+            <Button FontSize="16" Content="Thoát" Width="130" Height="40"></Button>
+        </DockPanel>
+        <!-- Dong 5 -->
+        <ListBox Grid.Row="4" Grid.ColumnSpan="3" Margin="10">
+            
+        </ListBox>
     </Grid>
 </Window>
