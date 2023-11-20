@@ -1,0 +1,66 @@
+﻿<Window x:Class="BaiTap95.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BaiTap95"
+        mc:Ignorable="d"
+        Title="Chọn đồ uống" Height="500" Width="600" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Border Grid.ColumnSpan="3" Grid.RowSpan="5" Margin="15,10,15,0" BorderBrush="Blue" BorderThickness="2">
+            <ListBox x:Name="lstDrink" Grid.Row="0" Grid.ColumnSpan="3" Grid.RowSpan="5">
+                <ListBoxItem Background="Beige">
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox x:Name="chkNuocCam" Style="{StaticResource checkBoxStyle}"></CheckBox>
+                        <Image Style="{StaticResource imageStyle}" Source="/orangejuice.jpg"/>
+                        <TextBlock VerticalAlignment="Center" FontSize="16" Margin="15,0,0,0">Nước cam tươi</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox x:Name="chkKiWiEp" Style="{StaticResource checkBoxStyle}"></CheckBox>
+                        <Image Style="{StaticResource imageStyle}" Source="/kiwijuice.jpg"/>
+                        <TextBlock VerticalAlignment="Center" FontSize="16" Margin="15,0,0,0">Nước Kiwi ép</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                <ListBoxItem Background="Beige">
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox x:Name="chkXoaiEp" Style="{StaticResource checkBoxStyle}"></CheckBox>
+                        <Image Style="{StaticResource imageStyle}" Source="/mangojuice.jpg"/>
+                        <TextBlock VerticalAlignment="Center" FontSize="16" Margin="15,0,0,0">Nước xoài ép</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                <ListBoxItem>
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox x:Name="chkSuaTuoi" Style="{StaticResource checkBoxStyle}"></CheckBox>
+                        <Image Style="{StaticResource imageStyle}" Source="/milk.png"/>
+                        <TextBlock VerticalAlignment="Center" FontSize="16" Margin="15,0,0,0">Sữa tươi tiệt trùng</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+                <ListBoxItem Background="Beige">
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox x:Name="chkCaPhe" Style="{StaticResource checkBoxStyle}"></CheckBox>
+                        <Image Style="{StaticResource imageStyle}" Source="/cafe-espresso.jpg"/>
+                        <TextBlock VerticalAlignment="Center" FontSize="16" Margin="15,0,0,0">Cà phê Espresso</TextBlock>
+                    </StackPanel>
+                </ListBoxItem>
+            </ListBox>
+        </Border>
+        <StackPanel Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="3" Margin="10" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Gọi đồ uống" FontSize="14" Style="{StaticResource buttonStyle}" Click="btnChoose_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
