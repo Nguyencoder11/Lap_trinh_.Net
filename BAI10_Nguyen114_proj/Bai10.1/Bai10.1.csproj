@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Bai10._1</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="khoa.png" />
+    <None Remove="mark.png" />
+    <None Remove="quit.png" />
+    <None Remove="students.png" />
+    <None Remove="subject.png" />
+    <None Remove="thongke.png" />
+    <None Remove="viewmark.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="khoa.png" />
+    <Resource Include="mark.png" />
+    <Resource Include="quit.png" />
+    <Resource Include="students.png" />
+    <Resource Include="subject.png" />
+    <Resource Include="thongke.png" />
+    <Resource Include="viewmark.png" />
+  </ItemGroup>
+
+</Project>

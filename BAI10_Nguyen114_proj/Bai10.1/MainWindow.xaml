@@ -1,0 +1,61 @@
+﻿<Window x:Class="Bai10._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai10._1"
+        mc:Ignorable="d"
+        Title="Quản lý sinh viên" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Menu Height="20" Name="mainmenu" VerticalAlignment="Top">
+            <MenuItem Header="Hệ thống" Name="menu1"></MenuItem>
+            <MenuItem Header="Chức năng" Name="menu2"></MenuItem>
+            <MenuItem Header="Hỗ trợ" Name="menu3"></MenuItem>
+        </Menu>
+        <ToolBar Height="30" Name="maintoolbar" VerticalAlignment="Top" Margin="0, 20, 0, 0">
+            <Button Name="btnNhapSinhVien" Click="btnNhapSinhVien_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/students.png" Style="{StaticResource imageStyle}"></Image>
+                    <TextBlock>Sinh viên</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Name="btnNhapKhoa" Click="btnNhapKhoa_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/khoa.png" Style="{StaticResource imageStyle}"/>
+                    <TextBlock>Khoa</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Name="btnNhapMonHoc" Click="btnNhapMonHoc_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/subject.png" Style="{StaticResource imageStyle}"></Image>
+                    <TextBlock>Môn học</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Name="btnNhapDiem" Click="btnNhapDiem_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/mark.png" Style="{StaticResource imageStyle}"></Image>
+                    <TextBlock>Nhập điểm</TextBlock>
+                </StackPanel>
+            </Button>
+            <Separator></Separator>
+            <Button Name="btnTraCuuDiem" Click="btnTraCuuDiem_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/viewmark.png" Style="{StaticResource imageStyle}"></Image>
+                    <TextBlock>Xem điểm</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Name="btnTraCuuSvTheoKhoa" Click="btnTraCuuSvTheoKhoa_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/thongke.png" Style="{StaticResource imageStyle}"></Image>
+                    <TextBlock>Thống kê Khoa</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Name="btnThoat" Click="btnThoat_Click" Margin="30,0,0,0">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                    <Image Source="/quit.png" Style="{StaticResource imageStyle}"></Image>
+                    <TextBlock>Thoát</TextBlock>
+                </StackPanel>
+            </Button>
+        </ToolBar>
+    </Grid>
+</Window>
