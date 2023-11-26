@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Baitap1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DemoBai11-12")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Baitap1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Baitap1")]
+[assembly: System.Reflection.AssemblyProductAttribute("DemoBai11-12")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DemoBai11-12")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

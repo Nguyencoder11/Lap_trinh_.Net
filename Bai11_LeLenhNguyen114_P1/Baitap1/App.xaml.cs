@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Baitap1
+namespace BaiTap1
 {
     /// <summary>
     /// Interaction logic for App.xaml
