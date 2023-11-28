@@ -5,8 +5,55 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BaiTap1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+        Title="Quản lý danh mục sản phẩm" Height="600" Width="600" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="10,0,10,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Dong 1 -->
+        <Label Grid.Row="0" Grid.Column="0" Style="{StaticResource labelStyle}" Content="Mã sản phẩm:" ></Label>
+        <TextBox x:Name="txtMaSp" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource textBoxStyle}"></TextBox>
+        <!-- Dong 2 -->
+        <Label Grid.Row="1" Grid.Column="0" Style="{StaticResource labelStyle}" Content="Tên sản phẩm:" ></Label>
+        <TextBox x:Name="txtTenSp" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource textBoxStyle}"></TextBox>
+        <!-- Dong 3 -->
+        <Label Grid.Row="2" Grid.Column="0" Style="{StaticResource labelStyle}" Content="Số lượng:" ></Label>
+        <TextBox x:Name="txtSoLuong" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource textBoxStyle}"></TextBox>
+        <!-- Dong 4 -->
+        <Label Grid.Row="3" Grid.Column="0" Style="{StaticResource labelStyle}" Content="Đơn giá:" ></Label>
+        <TextBox x:Name="txtDonGia" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource textBoxStyle}"></TextBox>
+        <!-- Dong 5 -->
+        <Label Grid.Row="4" Grid.Column="0" Style="{StaticResource labelStyle}" Content="Mã loại:" ></Label>
+        <TextBox x:Name="txtMaLoai" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource textBoxStyle}"></TextBox>
+        <!-- Dong 6 -->
+        <DataGrid x:Name="dtgDanhSachSanPham" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="4" Margin="10" ColumnHeaderStyle="{StaticResource dataGridHeaderStyle}" AutoGenerateColumns="False" FontSize="14" CanUserAddRows="False" SelectionChanged="dtgSanPham_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã sản phẩm" Binding="{Binding MaSp}" Width="0.9*"/>
+                <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding TenSp}" Width="*"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}" Width="0.6*"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}" Width="0.6*"/>
+                <DataGridTextColumn Header="Tên loại sản phẩm" Binding="{Binding TenLoai}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!-- Dong 7 -->
+        <StackPanel Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="4" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Name="btnThem" Style="{StaticResource btnStyle}" Click="btnThem_Click">Thêm</Button>
+            <Button Name="btnSua" Style="{StaticResource btnStyle}" Click="btnSua_Click">Sửa</Button>
+            <Button Name="btnXoa" Style="{StaticResource btnStyle}" Click="btnXoa_Click">Xóa</Button>
+            <Button Name="btnThoat" Style="{StaticResource btnStyle}" Click="btnThoat_Click">Thoát</Button>
+        </StackPanel>
     </Grid>
 </Window>
