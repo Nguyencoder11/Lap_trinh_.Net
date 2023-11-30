@@ -21,3 +21,4 @@ F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\MinhHoa2\MinhHoa2\obj\Debug\net6.0-windo
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\MinhHoa2\MinhHoa2\obj\Debug\net6.0-windows\App.baml
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\MinhHoa2\MinhHoa2\obj\Debug\net6.0-windows\Window2.g.cs
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\MinhHoa2\MinhHoa2\obj\Debug\net6.0-windows\Window2.baml
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\MinhHoa2\MinhHoa2\obj\Debug\net6.0-windows\MinhHoa2.sourcelink.json
