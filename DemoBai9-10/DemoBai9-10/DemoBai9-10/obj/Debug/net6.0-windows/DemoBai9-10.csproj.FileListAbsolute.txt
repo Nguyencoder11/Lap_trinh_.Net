@@ -44,3 +44,4 @@ F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DemoBai9-10\DemoBai9-10\DemoBai9-10\obj\
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DemoBai9-10\DemoBai9-10\DemoBai9-10\obj\Debug\net6.0-windows\DemoBai9-10.pdb
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DemoBai9-10\DemoBai9-10\DemoBai9-10\obj\Debug\net6.0-windows\DemoBai9-10.genruntimeconfig.cache
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DemoBai9-10\DemoBai9-10\DemoBai9-10\obj\Debug\net6.0-windows\ref\DemoBai9-10.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\DemoBai9-10\DemoBai9-10\DemoBai9-10\obj\Debug\net6.0-windows\DemoBai9-10.sourcelink.json

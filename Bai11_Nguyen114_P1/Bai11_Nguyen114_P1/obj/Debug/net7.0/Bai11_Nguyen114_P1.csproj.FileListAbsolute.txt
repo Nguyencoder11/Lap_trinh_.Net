@@ -1,0 +1,15 @@
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\bin\Debug\net7.0\Bai11_Nguyen114_P1.exe
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\bin\Debug\net7.0\Bai11_Nguyen114_P1.deps.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\bin\Debug\net7.0\Bai11_Nguyen114_P1.runtimeconfig.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\bin\Debug\net7.0\Bai11_Nguyen114_P1.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\bin\Debug\net7.0\Bai11_Nguyen114_P1.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.GeneratedMSBuildEditorConfig.editorconfig
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.AssemblyInfoInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.AssemblyInfo.cs
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.csproj.CoreCompileInputs.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.sourcelink.json
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\refint\Bai11_Nguyen114_P1.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.pdb
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\Bai11_Nguyen114_P1.genruntimeconfig.cache
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_P1\Bai11_Nguyen114_P1\obj\Debug\net7.0\ref\Bai11_Nguyen114_P1.dll

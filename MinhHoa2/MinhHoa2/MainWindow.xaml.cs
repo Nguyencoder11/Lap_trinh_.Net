@@ -38,9 +38,41 @@ namespace MinhHoa2
                 string heSoLuong = txtHeSoLuong.Text;
 
                 // Kiem tra du lieu hop le
-                if(string.IsNullOrEmpty(maNV) || string.IsNullOrEmpty(hoTen) || ngaySinh==default || string.IsNullOrEmpty(heSoLuong) || (!radNam.IsChecked.Value && !radNu.IsChecked.Value))
+                /*if(string.IsNullOrEmpty(maNV) || string.IsNullOrEmpty(hoTen) || ngaySinh==default || string.IsNullOrEmpty(heSoLuong) || (!radNam.IsChecked.Value && !radNu.IsChecked.Value))
                 {
                     MessageBox.Show("Vui lòng nhập đầy đủ thông tin.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }*/
+
+                if (string.IsNullOrEmpty(maNV))
+                {
+                    MessageBox.Show("Ban chua nhap ma nhan vien.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    txtMaNV.Focus();
+                    return;
+                }
+
+                if (string.IsNullOrEmpty(hoTen))
+                {
+                    MessageBox.Show("Ban chua nhap ho ten.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    txtHoTen.Focus();
+                    return;
+                }
+
+                if (ngaySinh==default)
+                {
+                    MessageBox.Show("Ban chua lua chon ngay.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+
+                if (string.IsNullOrEmpty(heSoLuong))
+                {
+                    MessageBox.Show("Ban chua nhap he so luong.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    txtHeSoLuong.Focus();
+                    return;
+                }
+                if (!radNam.IsChecked.Value && !radNu.IsChecked.Value)
+                {
+                    MessageBox.Show("Ban chua chon gioi tinh.", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
                     return;
                 }
 
