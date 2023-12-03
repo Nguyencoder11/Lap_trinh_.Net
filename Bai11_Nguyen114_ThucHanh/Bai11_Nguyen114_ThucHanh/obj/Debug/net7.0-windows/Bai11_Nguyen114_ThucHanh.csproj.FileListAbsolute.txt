@@ -61,3 +61,4 @@ F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_ThucHanh\Bai11_Nguyen114
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_ThucHanh\Bai11_Nguyen114_ThucHanh\obj\Debug\net7.0-windows\Bai11_Nguyen114_ThucHanh.pdb
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_ThucHanh\Bai11_Nguyen114_ThucHanh\obj\Debug\net7.0-windows\Bai11_Nguyen114_ThucHanh.genruntimeconfig.cache
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_ThucHanh\Bai11_Nguyen114_ThucHanh\obj\Debug\net7.0-windows\ref\Bai11_Nguyen114_ThucHanh.dll
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\Bai11_Nguyen114_ThucHanh\Bai11_Nguyen114_ThucHanh\obj\Debug\net7.0-windows\App.baml

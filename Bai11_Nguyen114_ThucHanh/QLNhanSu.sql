@@ -33,5 +33,11 @@ CREATE TABLE NhanVien
  GO
  INSERT INTO NhanVien
  VALUES('NV01',N'Trần Văn Phúc','2000-12-31',N'Nam','Anh, Pháp','PB01')
+ INSERT INTO NhanVien
+ VALUES('NV02',N'Nguyễn Thị Trang','2003-06-11',N'Nữ','Anh','PB03')
 
 
+ select MaNV, HoTen, Year(CURRENT_TIMESTAMP)-YEAR(NgaySinh) as 'Tuổi', Gioitinh, NgoaiNgu, TenPB
+ from NhanVien inner join PhongBan on NhanVien.MaPB = PhongBan.MaPB
+
+ select * from NhanVien

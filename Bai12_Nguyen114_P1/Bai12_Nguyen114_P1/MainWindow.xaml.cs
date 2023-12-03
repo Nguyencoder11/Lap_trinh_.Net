@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using Bai12_Nguyen114_P1.DataModels;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,7 +17,7 @@ namespace Bai12_Nguyen114_P1
     /// </summary>
     public partial class MainWindow : Window
     {
-        
+        QlbhContext db = new QlbhContext();
         public MainWindow()
         {
             InitializeComponent();
@@ -26,7 +27,7 @@ namespace Bai12_Nguyen114_P1
         {
             if(checkData() == true)
             {
-
+                if(db.NguoiDungs.FirstOrDefault(user => user.TenDangNhap == txtTenDangNhap.Text))
             }
         }
 
