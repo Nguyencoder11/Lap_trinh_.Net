@@ -5,13 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Bai12_Nguyen114_P1"
         mc:Ignorable="d"
-        Title="Quản lý bán hàng v1.0" Height="450" Width="960" WindowStartupLocation="CenterScreen" FontSize="16">
+        Title="Quản lý bán hàng v1.0" Height="500" Width="1000" WindowStartupLocation="CenterScreen" FontSize="15">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
-            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="59*" />
+            <ColumnDefinition Width="41*" />
+            <ColumnDefinition Width="41*" />
+            <ColumnDefinition Width="59*" />
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
@@ -22,53 +22,58 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <GroupBox Header="Thông tin hóa đơn" Grid.ColumnSpan="4" Grid.RowSpan="2" Margin="10,10,10,10" Style="{StaticResource groupBoxStyle}"/>
-        <StackPanel Grid.Row="0" Grid.Column="0" Margin="10,30,10,10" Orientation="Horizontal">
+        <GroupBox Header="Thông tin hóa đơn" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Grid.RowSpan="2" Margin="10,0,10,10" Style="{StaticResource groupBoxStyle}"/>
+        <StackPanel Grid.Row="0" Grid.Column="0" Margin="20,20,10,10" Orientation="Horizontal">
             <Label Content="Tên đăng nhập:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="150" Margin="19,8,8,8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtHoaDonTenDangNhap" Width="120" Style="{StaticResource textBoxStyle1}" IsReadOnly="True" Background="#f1f1f1"/>
         </StackPanel>
 
-        <StackPanel Grid.Row="0" Grid.Column="1" Margin="10,30,10,10" Orientation="Horizontal" Grid.ColumnSpan="2">
+        <StackPanel Grid.Row="0" Grid.Column="1" Margin="10,20,10,10" Orientation="Horizontal" Grid.ColumnSpan="2">
             <Label Content="SĐT Khách hàng:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="150" Margin="19,8,8,8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtSdtKH" Width="150" Style="{StaticResource textBoxStyle1}" KeyUp="txtSdtKH_KeyUp"/>
         </StackPanel>
-        <StackPanel Grid.Row="1" Grid.Column="1" Margin="10,10,10,30" Orientation="Horizontal" Grid.ColumnSpan="2">
+        <StackPanel Grid.Row="1" Grid.Column="1" Margin="10,10,10,20" Orientation="Horizontal" Grid.ColumnSpan="2">
             <Label Content="Họ tên khách hàng:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="160" Margin="0,8,8,8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtHoTenKH" Width="160" Style="{StaticResource textBoxStyle1}" Background="#f1f1f1" IsReadOnly="True"/>
         </StackPanel>
 
-        <StackPanel Grid.Row="0" Grid.Column="3" Margin="10,30,10,10" Orientation="Horizontal">
+        <StackPanel Grid.Row="0" Grid.Column="3" Margin="10,20,20,10" Orientation="Horizontal">
             <Label Content="Số hoá đơn:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="150" Margin="0,8,8,8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtSoHd" Width="150" Style="{StaticResource textBoxStyle1}"/>
         </StackPanel>
-        <StackPanel Grid.Row="1" Grid.Column="3" Margin="10,10,10,30" Orientation="Horizontal">
+        <StackPanel Grid.Row="1" Grid.Column="3" Margin="10,10,20,20" Orientation="Horizontal">
             <Label Content="Ngày lập:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="150" Margin="18,8,8,8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtNgayLap" Width="150" Style="{StaticResource textBoxStyle1}" Background="#f1f1f1"/>
         </StackPanel>
 
-        <GroupBox Header="Hàng mua" Grid.Row="2" Grid.ColumnSpan="2" Margin="10,6,7,10" Grid.RowSpan="3" Style="{StaticResource groupBoxStyle}"/>
-        <StackPanel Grid.Row="2" Grid.Column="0" Margin="10,22,10,2" Orientation="Horizontal" Grid.ColumnSpan="2">
+        <GroupBox Header="Hàng mua" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Margin="10,0,10,10" Grid.RowSpan="3" Style="{StaticResource groupBoxStyle}"/>
+        <StackPanel Grid.Row="2" Grid.Column="0" Margin="20,20,20,10" Orientation="Horizontal" Grid.ColumnSpan="2">
             <Label Content="Mã hàng:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="100" Margin="1,8,8,8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtMaHang" Width="100" Style="{StaticResource textBoxStyle1}" KeyUp="txtMaH_KeyUp"/>
             <Label Content="Số lượng:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="100" Margin="0,8,8,8" Style="{StaticResource textBoxStyle1}"/>
-            <Button Content="&gt;&gt;" Width="60" Margin="10,8,8,8"/>
+            <TextBox x:Name="txtSoLuong" Width="100" Style="{StaticResource textBoxStyle1}"/>
+            <Button x:Name="btnThemHang" Content="&gt;&gt;" Width="60" Margin="6" Click="btnThemHang_Click"/>
         </StackPanel>
-        <StackPanel Grid.Row="3" Grid.Column="0" Margin="10,2,10,2" Orientation="Horizontal" Grid.ColumnSpan="2">
+        <StackPanel Grid.Row="3" Grid.Column="0" Margin="20,10,20,10" Orientation="Horizontal" Grid.ColumnSpan="2">
             <Label Content="Tên hàng:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="250" Margin="0,8,8,8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtTenHang" Width="300" Style="{StaticResource textBoxStyle1}" Background="#f1f1f1" IsReadOnly="True"/>
         </StackPanel>
-        <StackPanel Grid.Row="4" Grid.Column="0" Margin="10,2,10,22" Orientation="Horizontal" Grid.ColumnSpan="2">
+        <StackPanel Grid.Row="4" Grid.Column="0" Margin="20,10,20,20" Orientation="Horizontal" Grid.ColumnSpan="2">
             <Label Content="Đơn giá:" Style="{StaticResource labelStyle1}"/>
-            <TextBox Width="100" Margin="8" Style="{StaticResource textBoxStyle1}"/>
+            <TextBox x:Name="txtDonGia" Width="100" Style="{StaticResource textBoxStyle1}" Background="#f1f1f1" IsReadOnly="True"/>
         </StackPanel>
-        <DataGrid AutoGenerateColumns="False" Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="2" Margin="6,18,10,12" Grid.RowSpan="3">
+        <DataGrid x:Name="dtgDanhSachHangMua" AutoGenerateColumns="False" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" Margin="10" Grid.RowSpan="3" ColumnHeaderStyle="{StaticResource dataGridHeaderStyle}">
             <DataGrid.Columns>
-                
+                <DataGridTextColumn Header="Mã hàng" Binding="{Binding MaSp}" Width="*"/>
+                <DataGridTextColumn Header="Tên hàng" Binding="{Binding TenSp}" Width="*"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}" Width="*"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}" Width="*"/>
+                <DataGridTextColumn Header="Thành tiền" Binding="{Binding ThanhTien}" Width="*"/>
+                <DataGridTextColumn Header="Xóa" Binding="{Binding Xoa}" Width="*"/>
             </DataGrid.Columns>
         </DataGrid>
-        <StackPanel Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2" VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Left" Margin="185,10,0,0">
-            <Button Width="150" Height="35" Content="Lưu hóa đơn" Click="Button_Click"/>
+        <StackPanel Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2" VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Left" Margin="185,0,0,0" Height="35" Width="150">
+            <Button x:Name="btnLuuHoaDon" Width="150" Height="35" Content="Lưu hóa đơn" Click="btnLuuHoaDon_Click"/>
         </StackPanel>
     </Grid>
 </Window>

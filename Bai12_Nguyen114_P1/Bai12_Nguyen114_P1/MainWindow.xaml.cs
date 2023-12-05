@@ -27,27 +27,42 @@ namespace Bai12_Nguyen114_P1
         {
             if(checkData() == true)
             {
-                if(db.NguoiDungs.FirstOrDefault(user => user.TenDangNhap == txtTenDangNhap.Text))
+                // Lấy dữ liệu nhập vào từ người dùng 
+                string tendn = txtTenDangNhap.Text.Trim();
+                string matkhau = txtMatKhau.Text.Trim();
+
+                // tìm kiếm thông tin tài khoản trong csdl và đối chiếu
+                var userInfo = db.NguoiDungs.SingleOrDefault(user => (user.TenDangNhap == tendn && user.MatKhau == matkhau));
+                // Nếu tồn tại
+                if(userInfo != null )
+                {
+                    // hiển thị giao diện Hóa đơn
+                    HoaDon hoadon = new HoaDon(tendn, db);
+                    hoadon.Show();
+                }
+                else
+                {
+                    // đưa ra thông báo nếu không tìm thấy
+                    System.Windows.MessageBox.Show("Tài khoản không tồn tại. Vui lòng nhập lại tài khoản", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
             }
         }
 
         private bool checkData()
         {
-            string username = txtTenDangNhap.Text;
-            string password = txtMatKhau.Text;
-
-            if(string.IsNullOrEmpty(username) && string.IsNullOrEmpty(password) )
+            if(string.IsNullOrEmpty(txtTenDangNhap.Text) && string.IsNullOrEmpty(txtMatKhau.Text) )
             {
                 System.Windows.MessageBox.Show("Yêu cầu nhập đầy đủ thông tin đăng nhập", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
                 return false;
             }
-            if(string.IsNullOrEmpty(username) )
+            if(string.IsNullOrEmpty(txtTenDangNhap.Text) )
             {
                 System.Windows.MessageBox.Show("Chưa nhập tên người dùng", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
                 txtTenDangNhap.Focus();
                 return false;
             }
-            if(string.IsNullOrEmpty(password) )
+            if(string.IsNullOrEmpty(txtMatKhau.Text) )
             {
                 System.Windows.MessageBox.Show("Chưa nhập mật khẩu", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
                 txtMatKhau.Focus();
