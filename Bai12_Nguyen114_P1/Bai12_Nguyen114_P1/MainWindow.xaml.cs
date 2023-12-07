@@ -34,10 +34,10 @@ namespace Bai12_Nguyen114_P1
                 // tìm kiếm thông tin tài khoản trong csdl và đối chiếu
                 var userInfo = db.NguoiDungs.SingleOrDefault(user => (user.TenDangNhap == tendn && user.MatKhau == matkhau));
                 // Nếu tồn tại
-                if(userInfo != null )
+                if(userInfo != null)
                 {
                     // hiển thị giao diện Hóa đơn
-                    HoaDon hoadon = new HoaDon(tendn, db);
+                    Window2 hoadon = new Window2(tendn, db);
                     hoadon.Show();
                 }
                 else

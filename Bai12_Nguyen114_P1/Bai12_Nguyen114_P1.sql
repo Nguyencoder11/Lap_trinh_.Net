@@ -57,7 +57,7 @@ insert into KhachHang values('KH1','Nguyen Van A','0323654756','Ha Noi'), ('KH2'
 insert into NguoiDung values('Haisaki','123456','Tran Trinh Dong Hai'), ('Himass','135579','La Phuong Tien Dat'), ('Taikonn','246268','Ha Huu Tai')
 insert into LoaiSanPham values('L1','Ban phim'), ('L2','Tai nghe'), ('L3','Dien thoai')
 insert into SanPham values('SP1','Galaxy Fold 4','L3', 100, 4000000), ('SP2','K550 Leaven','L1', 50, 350000), ('SP3','M1240 Lightning','L1', 75, 320000)
-insert into HoaDon values('HD1', '2020-12-11', 'KH1', 'Solozy', 'Taikonn'), ('HD2','2020-07-05','KH2','Ssubang','Himass'), ('HD3','2020-06-15','Kh3','YmCud','Himass')
+insert into HoaDon values('HD1', '2020-12-11', 'KH1', 'Solozy', 'Taikonn'), ('HD2','2020-07-05','KH2','Ssubang','Himass'), ('HD3','2020-06-15','KH3','YmCud','Himass')
 insert into HoaDonChiTiet values('HD1','SP1', 5), ('HD2','SP2', 7), ('HD3','SP3', 10)
 
 select * from KhachHang
