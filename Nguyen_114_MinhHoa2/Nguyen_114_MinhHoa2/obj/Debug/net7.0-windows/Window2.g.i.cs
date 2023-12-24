@@ -61,7 +61,7 @@ namespace Nguyen_114_MinhHoa2 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Nguyen_114_MinhHoa2;component/window2.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Nguyen_114_MinhHoa2;V1.0.0.0;component/window2.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Window2.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

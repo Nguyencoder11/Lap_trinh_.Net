@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QsSEHNfjrakTeoS33GKpkUg6uUmAMi+DOJWDH5RpZkyfOju+WiMp3mGe69sOk62AcbPl2JzeSczQ86Gma40nYg==",
+  "dgSpecHash": "w7LrdROr56XT1Css0Vu2i4d0mh59oNtv0tRqiqWD5ptvR1Q6xO3IR50U/zpKg3loCoLxqqHHC4QT3xR6doqCdw==",
   "success": true,
-  "projectFilePath": "F:\\HaUI_Learn\\Semester 5\\Lap_trinh_.Net\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh.csproj",
+  "projectFilePath": "F:\\HaUI_Learn\\Semester 5\\Lap_trinh_.Net\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh\\Bai11_LeAnhTu_ThucHanh.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

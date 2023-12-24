@@ -1,0 +1,56 @@
+﻿<Application x:Class="DeOnTapThiKTHP.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DeOnTapThiKTHP"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="LabelStyle" TargetType="Label">
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        
+        <!-- Style trigger cho cac TextBox nhap vao -->
+        <Style x:Key="TextBoxStyle" TargetType="TextBox">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Height" Value="25"/>
+            <Setter Property="Margin" Value="8,0,0,0"/>
+            <Style.Triggers>
+                <Trigger Property="IsFocused" Value="True">
+                    <Setter Property="Foreground" Value="Blue"></Setter>
+                    <Setter Property="FontStyle" Value="Italic"></Setter>
+                    <Setter Property="FontFamily" Value="Times New Roman"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        
+        <Style x:Key="btnStyle" TargetType="Button">
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Background" Value="Cyan"/>
+            <Setter Property="Margin" Value="6,8,6,8"/>
+        </Style>
+        
+        <!-- Template cho Button -->
+        <ControlTemplate x:Key="btnTemplate" TargetType="Button">
+            <Grid>
+                <Border Background="{TemplateBinding Background}" CornerRadius="50"></Border>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"></ContentPresenter>
+            </Grid>
+        </ControlTemplate>
+        
+        <!-- Style cho tieu de cot DataGrid -->
+        <Style x:Key="DataGridHeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+        </Style>
+        
+        <!-- Template cho cac cot DonGia va SoLuongCo -->
+        <DataTemplate x:Key="dongiaColumnTemplate" DataType="DataGridCell">
+            <TextBlock Text="{Binding DonGia}" HorizontalAlignment="Center"/>
+        </DataTemplate>
+        <DataTemplate x:Key="slcoColumnTemplate" DataType="DataGridCell">
+            <TextBlock Text="{Binding SoLuongCo}" HorizontalAlignment="Center"/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

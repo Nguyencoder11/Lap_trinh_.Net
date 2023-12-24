@@ -53,3 +53,4 @@ F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAI11_LeLenhNguyen114_P1\BaiTap1\obj\Deb
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAI11_LeLenhNguyen114_P1\BaiTap1\obj\Debug\net6.0-windows\BaiTap1.genruntimeconfig.cache
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAI11_LeLenhNguyen114_P1\BaiTap1\obj\Debug\net6.0-windows\ref\BaiTap1.dll
 F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAI11_LeLenhNguyen114_P1\BaiTap1\obj\Debug\net6.0-windows\App.baml
+F:\HaUI_Learn\Semester 5\Lap_trinh_.Net\BAI11_LeLenhNguyen114_P1\BaiTap1\obj\Debug\net6.0-windows\BaiTap1.sourcelink.json

@@ -2889,9 +2889,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\HaUI_Learn\\Semester 5\\Lap_trinh_.Net\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh.csproj",
-      "projectName": "Bai11_Nguyen114_ThucHanh",
-      "projectPath": "F:\\HaUI_Learn\\Semester 5\\Lap_trinh_.Net\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh.csproj",
+      "projectUniqueName": "F:\\HaUI_Learn\\Semester 5\\Lap_trinh_.Net\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh\\Bai11_LeAnhTu_ThucHanh.csproj",
+      "projectName": "Bai11_LeAnhTu_ThucHanh",
+      "projectPath": "F:\\HaUI_Learn\\Semester 5\\Lap_trinh_.Net\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh\\Bai11_LeAnhTu_ThucHanh.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
       "outputPath": "F:\\HaUI_Learn\\Semester 5\\Lap_trinh_.Net\\Bai11_Nguyen114_ThucHanh\\Bai11_Nguyen114_ThucHanh\\obj\\",
       "projectStyle": "PackageReference",
