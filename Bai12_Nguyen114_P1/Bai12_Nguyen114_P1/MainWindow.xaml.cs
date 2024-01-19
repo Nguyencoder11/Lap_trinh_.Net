@@ -43,8 +43,9 @@ namespace Bai12_Nguyen114_P1
                 else
                 {
                     // đưa ra thông báo nếu không tìm thấy
-                    System.Windows.MessageBox.Show("Tài khoản không tồn tại. Vui lòng nhập lại tài khoản", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
+                    System.Windows.MessageBox.Show("Tên đăng nhập hoặc mật khẩu bị sai. Vui lòng nhập lại tài khoản", "Lỗi", MessageBoxButton.OK, MessageBoxImage.Error);
                     return;
+
                 }
             }
         }
